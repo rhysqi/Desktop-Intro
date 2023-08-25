@@ -18,15 +18,15 @@ For this intro we take calculator as an example that has complete component
 
 ### Tools :
 ```
-- LLVM 15.x
+- LLVM v15.x
 - MSVC (For windows Visual Studio)
-- Python 3.9
+- Python v3.9
 - Makefile
-- Cmake
-- Meson
-- OpenJDK 17
-- Maven (Java)
-- Gradle (Java)
+- Cmake v3.26.x
+- Meson v1.2.x
+- OpenJDK v17
+- Maven v3.8.x (Java)
+- Gradle v8.2.x (Java)
 ```
 
 # Written in
