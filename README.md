@@ -9,8 +9,6 @@ For this intro we take calculator as an example that has complete component
 - SFML_2.5
 - RayLib_4.2
 - SDL_2
-- GTK_3.24
-- Qt_5
 - UWP (C# and Visual Basic)
 - Java Swing (Java)
 - Tkinter (Python)
