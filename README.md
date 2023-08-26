@@ -18,7 +18,6 @@ For this intro we take calculator as an example that has complete component
 - LLVM v15.x
 - MSVC (For windows Visual Studio)
 - Python v3.9
-- Makefile
 - Cmake v3.26.x
 - Meson v1.2.x
 - OpenJDK v17
