@@ -1,7 +1,7 @@
 CC = clang14
 CCL = clang-14
 
-File = main.c
+File = src/main.c
 Out_File = -o build/Program
 
 LIBS1 = -I/usr/local/include -L/usr/local/lib
