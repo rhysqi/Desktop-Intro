@@ -27,7 +27,7 @@ For this intro we take calculator as an example that has complete component
 
 # Written in
 - [x] C/C++
-- [x] C#
 - [x] Java
 - [x] Python
+- [x] C#
 - [x] Visual Basic
