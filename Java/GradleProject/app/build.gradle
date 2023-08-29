@@ -35,6 +35,7 @@ tasks.named('test') {
 }
 
 java {
+    // Java version
     toolchain {
         languageVersion = JavaLanguageVersion.of(17)
     }
