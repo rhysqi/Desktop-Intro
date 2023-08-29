@@ -8,15 +8,13 @@ For this intro we take calculator as an example that has complete component
 ```
 - SFML_2.5
 - RayLib_4.2
-- UWP (C# and Visual Basic)
 - Java Swing (Java)
 - Tkinter (Python)
 ```
 
 ### Prerequisite Tools :
 ```
-- LLVM v15.x
-- MSVC (For windows Visual Studio)
+- LLVM v14.x
 - Python v3.9
 - Cmake v3.26.x
 - Meson v1.2.x
@@ -29,5 +27,3 @@ For this intro we take calculator as an example that has complete component
 - [x] C/C++
 - [x] Java
 - [x] Python
-- [x] C#
-- [x] Visual Basic
