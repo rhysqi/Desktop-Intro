@@ -13,7 +13,7 @@ For this intro we take calculator as an example that has complete component
 - Tkinter (Python)
 ```
 
-### Tools :
+### Prerequisite Tools :
 ```
 - LLVM v15.x
 - MSVC (For windows Visual Studio)
