@@ -1,7 +1,7 @@
 # Meson setup configuration
 project('RayLib', 'c',
 	version : '1.0',
-	default_options: ['c_std=c20']
+	default_options: ['c_std=c2x']
 )
 
 # Global Arguments
