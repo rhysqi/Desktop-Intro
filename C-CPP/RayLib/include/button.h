@@ -2,6 +2,6 @@
 
 #include <raylib.h>
 
-void Button(){
+inline void Button(){
 	
 }
