@@ -1,6 +1,6 @@
 // Temporary & core function
-#include "include/window.h"
-#include "include/button.h"
+#include "../include/window.h"
+#include "../include/button.h"
 
 void core(){
 	// Core function
