@@ -1,6 +1,6 @@
 
 #include <raylib.h>
 
-void input(){
+inline void input(){
 	
 }
