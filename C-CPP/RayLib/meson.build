@@ -7,7 +7,7 @@ project('RayLib', 'c',
 # Global Arguments
 global_include_args = ['-I/usr/local/include']
 global_link_args = ['-L/usr/local/lib']
-global_compile_args_1 = ['-fno-strict-aliasing', '-fstack-protector-strong', '-fvectorize', '-fslp-vectorize', '-flto' ]
+global_compile_args_1 = ['-fno-strict-aliasing', '-fstack-protector-strong', '-flto' ]
 global_compile_args_2 = ['-pthread', '-O2', '']
 
 # Adding Arguments
