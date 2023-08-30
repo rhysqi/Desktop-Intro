@@ -5,7 +5,7 @@
 
 #include "core.h"
 
-void ServeInit(){
+inline void ServeInit(){
 	// Service initialization
 	while (!WindowShouldClose()) {
 		BeginDrawing();
