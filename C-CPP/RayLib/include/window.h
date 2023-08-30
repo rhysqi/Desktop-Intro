@@ -5,6 +5,7 @@
 
 #include <raylib.h>
 
-void Window(uint32_t width, u_int32_t height, const char *Title){
+// Window function
+inline void Window(uint32_t width, u_int32_t height, const char *Title){
 	InitWindow(width, height, Title);
 }
