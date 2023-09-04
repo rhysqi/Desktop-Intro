@@ -3,8 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main(void) {
-
+int main(int argc, const char *argv[]) {
+	
 	// Declare variable
 	Display *d;
 	Window w;
@@ -21,8 +21,8 @@ int main(void) {
 
 	// Create window function
 	s = DefaultScreen(d);
-	w = XCreateSimpleWindow(d, RootWindow(d, s), 10, 10, 800, 500, 1,
-							BlackPixel(d, s), WhitePixel(d, s));
+	w = XCreateSimpleWindow(d, RootWindow(d, s), 10, 10, 800, 500, 1, BlackPixel(d, s), WhitePixel(d, s));
+
 	XSelectInput(d, w, ExposureMask | KeyPressMask);
 	XMapWindow(d, w);
 
