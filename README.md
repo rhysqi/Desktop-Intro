@@ -6,8 +6,8 @@ For this intro we take calculator as an example that has complete component
 ## Used Technology & Tools
 ### Technology :
 ```
-- SFML_2.5
-- RayLib_4.2
+- SFML v2.5
+- RayLib v4.2
 - Java Swing (Java)
 - Tkinter (Python)
 ```
