@@ -1,6 +1,5 @@
 # Desktop Introduction
 Desktop introduction and example every software build system. <br>
-For this intro we take calculator as an example that has complete component
 <br>
 
 ## Used Technology & Tools
