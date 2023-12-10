@@ -20,6 +20,7 @@ Desktop introduction and example every software build system. <br>
 - OpenJDK v17
 - Maven v3.8.x (Java)
 - Gradle v8.2.x (Java)
+- Windows SDK
 ```
 
 # Written in
